@@ -11,7 +11,6 @@ export default function RelatoriosPage() {
   const transactions = usePoupStore((state) => state.transactions);
   
   // Dados MOCADOS para o Gráfico de Resumo Anual (Simulação)
-  // Nota: Em um projeto real, você calcularia isso a partir das transações.
   const RESUMO_ANUAL_DATA = [
     { name: 'Jan', Receita: 5200, Despesa: 2353 },
     { name: 'Fev', Receita: 4800, Despesa: 2600 },
