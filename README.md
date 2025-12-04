@@ -1,3 +1,6 @@
+//Nome dos integrantes: Miguel Augusto, Carlos Henrique da Costa, Ludimilla Dias, Matheus Soares, Pedro Henrique Geronimo, Ryan Do Santos, Thiago Castro, Ygor Tarcio 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
